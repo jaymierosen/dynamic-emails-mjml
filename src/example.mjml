@@ -1,0 +1,14 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          Hello {firstName} {lastName}!
+        </mj-text>
+        <mj-text>
+          Hello {firstName} {lastName}!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
